@@ -1,0 +1,168 @@
+html {
+    background: url(medical-symbol.jpg) no-repeat center center fixed; 
+    background-size: cover;
+}
+#aboutus
+{
+	
+	font-family: "Courier New";
+	background-color: #E0FFFF;
+	width: 200px;
+	border: none;
+	border-width:5px;
+	
+}
+
+#faltu{
+	background-color: #E0FFFF;
+	padding: 20px;
+	border: groove black;
+	border-width:5px;
+	font-family: "Courier New"
+}
+body{
+	font-family: "Courier New";
+
+}
+button{
+	font-family: "Courier New";
+	text-align: center;
+	color: #ffffff;
+	background-color: #00BFFF;
+	padding: 5px;
+	width: 100px;
+}
+table{
+	background-color:#E0FFFF;
+}
+h2{
+	padding:6px 6px 6px 6px;	
+	text-align: center;
+	color: red;
+	text-shadow: 1px 1px #000000;
+	font-size: 40px;
+	font-family: "ALGERIAN";
+	border: 2px solid green;
+	border-style: double;
+
+}
+h4{
+	background-color: #E0FFFF;
+	text-shadow: 1px 1px #000000;
+}
+#geez{
+	width:100px;
+	border-radius: 15px 50px 30px;
+    background: #00BFFF;
+    padding: 7px; 
+	border: solid #00008B thin;
+}
+#footer {
+	display: inline;
+	position: fixed;
+	bottom:0;
+	width: 100%;
+	padding: 10px;
+	
+}
+#footer a{
+	
+	display: inline;
+}
+a:link, a:visited {
+	display: block;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #00BFFF;
+    width: 300px;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    background-color: #4169E1;
+}
+div.fieldSet{
+	border: solid black thin;
+	width: 500px;
+}
+fieldset{
+	border: none;
+	margin: 0 0 0 -10px;
+	padding 0;
+}
+legend{
+	font-size: 20px;
+	background-color:#00BFFF;
+	color:white;
+	width:100%;
+	padding: 5px;
+}
+label.field{
+	text-align: right;
+	width: 100px;
+	float:left;
+	font-weight: bold;
+}
+input.textbox-300{
+	width: 300px;
+	float: left;
+}
+fieldset p{
+	clear: both;
+	padding: 5px;
+}
+input[type="submit"] {
+  background: none;
+  color: #00BFFF;
+  cursor: pointer;
+  float:right;
+}
+input[type="submit"]:hover {
+  color: red;
+}
+#profile {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#profile td, #customers th {
+    font-size: 1em;
+    
+    padding: 3px 7px 2px 7px;
+}
+
+#profile th {
+    font-size: 1.1em;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    background-color: #00BFFF;
+    color: #ffffff;
+}
+
+#profile tr.alt td {
+    color: #000000;
+    background-color: #EAF2D3;
+}
+div.image{
+	
+	content:url("medi-aid.gif");
+	background: transparent;
+	height: 100px;
+	width: 30%;
+	
+	margin-top: 20px;
+	margin-bottom: 40px;
+	
+	
+}
+
+#geez:hover
+{
+	background-color: #4169E1;
+}
+
+
